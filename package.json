@@ -1,0 +1,16 @@
+{
+  "name": "pouchdb-memory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pouchdb-adapter-http": "^7.1.1",
+    "pouchdb-adapter-memory": "^7.1.1",
+    "pouchdb-core": "^7.1.1",
+    "pouchdb-find": "^7.1.1",
+    "pouchdb-mapreduce": "^7.1.1",
+    "pouchdb-replication": "^7.1.1"
+  },
+  "description": "pouchdb memory extension",
+  "author": "Tom Wilson <twilson63@gmail.com>"
+}
