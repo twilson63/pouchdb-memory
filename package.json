@@ -1,5 +1,5 @@
 {
-  "name": "pouchdb-memory",
+  "name": "@twilson63/pouchdb-memory",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
